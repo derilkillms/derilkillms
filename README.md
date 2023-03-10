@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @derilkillms
 - 👀 I’m interested in wordpress and moodle plugin
-- 🌱 I’m currently learning php , javascript, android and IoS
+- 🌱 I’m currently learning php , golang, javascript
 - 💞️ I’m looking to collaborate on plugins developer
 - 📫 derilkillms@gmail.com
 
